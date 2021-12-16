@@ -1,4 +1,5 @@
-# Mapping_Earthquakes
+<img src="https://user-images.githubusercontent.com/90797036/146291716-413f1ffc-4126-4f6e-a036-546d541d7d2a.png" alt="drawing" width="1000"/>
+
 ## This new assignment consists of three technical analysis deliverables:
 
 - **Deliverable 1:** Add Tectonic Plate Data
